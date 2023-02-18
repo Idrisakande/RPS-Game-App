@@ -93,7 +93,6 @@ function endGame() {
   playerScoreDiv.innerText = "";
   totalPlayerScoreDiv.innerText = "";
   computerScoreDiv.innerText = "";
-  computerScoreDiv.innerText = "";
 }
 
 playGame();
